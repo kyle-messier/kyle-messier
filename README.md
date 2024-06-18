@@ -11,7 +11,7 @@ Please check out our [gh-pages](https://niehs.github.io/SET/) website for detail
 
 ## Software 
 
-The following is a list of software and tools that we have developed or contributed to.
+Our code and software is hosted at the [NIEHS GitHub](https://github.com/NIEHS/) Enterprise:
 
 | No. | Package Name                                                                          | Description | Status |
 |--------|-------------------------------------------------------------------|----------|----------------------------|
