@@ -1,6 +1,6 @@
 # Welcome to my personal GitHub profile.
 
-Hello! I'm [Kyle P Messier, PhD](https://www.niehs.nih.gov/research/atniehs/labs/ptb/spatiotemporal/index.cfm), Stadtman Tenure Track Investigator at the National Institute of Environmental Health Sciences.  
+Hello! I'm [Kyle P Messier, PhD](https://niehs.github.io/SET/people.html#KPM), Stadtman Tenure Track Investigator at the National Institute of Environmental Health Sciences.  
 
 ## {SET}group
 
